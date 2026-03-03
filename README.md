@@ -2,6 +2,7 @@
 
 🎓 Final Year Computer Science Student  
 💻 Full Stack Developer (MERN Stack)  
+☕ Currently expanding into Java & Backend Development
 🚀 Passionate about building scalable and secure web applications  
 
 ---
@@ -15,7 +16,10 @@ React.js, HTML, CSS, JavaScript
 Node.js, Express.js  
 
 **Database:**  
-MongoDB  
+MongoDB, SQL
+
+**Programming Languages:**  
+JAVA, Python, C
 
 **Tools & Technologies:**  
 Git, GitHub, REST APIs, JWT Authentication, Postman  
@@ -63,8 +67,8 @@ A team-based full-stack project designed to help users create professional portf
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn link here)  
-- Email: (Add your professional email here)  
+- LinkedIn:https://www.linkedin.com/in/mohammad-kafeel-346a7b303  
+- Email: mdkafeel7667@gmail.com  
 
 ---
 
