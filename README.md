@@ -2,7 +2,7 @@
 
 🎓 Final Year Computer Science Student  
 💻 Full Stack Developer (MERN Stack)  
-☕ Currently expanding into Java & Backend Development
+☕ Currently expanding into Java & Backend Development  
 🚀 Passionate about building scalable and secure web applications  
 
 ---
